@@ -4,3 +4,7 @@ const key = {
     MY_SECRETKEY: "Pe8lLeJ3ObWBiBWw1G96HQ",
     third_key: "E/pG/zzOCGS"
 }
+
+const IBM = {
+    MY_KEY: ""
+}
